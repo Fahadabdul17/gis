@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
 document.addEventListener("DOMContentLoaded", () => {
     const pointTable = document.getElementById("polygonTable").getElementsByTagName('tbody')[0];
 
-    fetch("geojsonPolygo.json") // Ganti "data.json" dengan nama file JSON Anda
+    fetch("geojsonPolygon.json") // Ganti "data.json" dengan nama file JSON Anda
         .then(response => response.json())
         .then(data => {
             data.features.forEach(feature => {
@@ -41,7 +41,6 @@ document.addEventListener("DOMContentLoaded", () => {
         })
         .catch(error => console.error("Terjadi kesalahan:", error));
 });
-
 document.addEventListener("DOMContentLoaded", () => {
     const pointTable = document.getElementById("polylineTable").getElementsByTagName('tbody')[0];
 

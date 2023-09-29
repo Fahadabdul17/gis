@@ -4,7 +4,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "proklamasi"
+          "name": "pembangunan"
         },
         "geometry": {
           "type": "Polygon",
@@ -277,7 +277,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "proklamasi"
+          "name": "pembangunan"
         },
         "geometry": {
           "type": "Polygon",
@@ -550,7 +550,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "proklamasi"
+          "name": "pembangunan"
         },
         "geometry": {
           "type": "Polygon",
@@ -823,7 +823,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "proklamasi"
+          "name": "pembangunan"
         },
         "geometry": {
           "type": "Polygon",
@@ -1096,7 +1096,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "proklamasi"
+          "name": "pembangunan"
         },
         "geometry": {
           "type": "Polygon",
@@ -1369,7 +1369,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "proklamasi"
+          "name": "pembangunan"
         },
         "geometry": {
           "type": "Polygon",
@@ -1642,7 +1642,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "proklamasi"
+          "name": "pembangunan"
         },
         "geometry": {
           "type": "Polygon",
@@ -1915,7 +1915,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "proklamasi"
+          "name": "pembangunan"
         },
         "geometry": {
           "type": "Polygon",
@@ -2188,7 +2188,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "proklamasi"
+          "name": "pembangunan"
         },
         "geometry": {
           "type": "Polygon",
@@ -2461,7 +2461,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "proklamasi"
+          "name": "pembangunan"
         },
         "geometry": {
           "type": "Polygon",
@@ -2734,7 +2734,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "proklamasi"
+          "name": "pembangunan"
         },
         "geometry": {
           "type": "Polygon",
@@ -3007,7 +3007,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "proklamasi"
+          "name": "pembangunan"
         },
         "geometry": {
           "type": "Polygon",
@@ -3280,7 +3280,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "proklamasi"
+          "name": "pembangunan"
         },
         "geometry": {
           "type": "Polygon",
@@ -3553,7 +3553,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "proklamasi"
+          "name": "pembangunan"
         },
         "geometry": {
           "type": "Polygon",
@@ -3826,7 +3826,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "proklamasi"
+          "name": "pembangunan"
         },
         "geometry": {
           "type": "Polygon",
@@ -4099,7 +4099,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "proklamasi"
+          "name": "pembangunan"
         },
         "geometry": {
           "type": "Polygon",
@@ -4372,7 +4372,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "proklamasi"
+          "name": "pembangunan"
         },
         "geometry": {
           "type": "Polygon",
@@ -8194,7 +8194,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "cimanuk"
+          "name": "pembangunan"
         },
         "geometry": {
           "type": "Polygon",
@@ -8467,7 +8467,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "cimanuk"
+          "name": "pembangunan"
         },
         "geometry": {
           "type": "Polygon",
@@ -8740,7 +8740,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "cimanuk"
+          "name": "pembangunan"
         },
         "geometry": {
           "type": "Polygon",
@@ -9013,7 +9013,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "cimanuk"
+          "name": "pembangunan"
         },
         "geometry": {
           "type": "Polygon",
@@ -9286,7 +9286,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "cimanuk"
+          "name": "pembangunan"
         },
         "geometry": {
           "type": "Polygon",
@@ -9560,7 +9560,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "otista"
+          "name": "pembangunan"
         },
         "geometry": {
           "type": "Polygon",
@@ -9833,7 +9833,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "otista"
+          "name": "pembangunan"
         },
         "geometry": {
           "type": "Polygon",
@@ -10106,7 +10106,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "otista"
+          "name": "pembangunan"
         },
         "geometry": {
           "type": "Polygon",
@@ -10379,7 +10379,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "otista"
+          "name": "pembangunan"
         },
         "geometry": {
           "type": "Polygon",
@@ -10652,7 +10652,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "otista"
+          "name": "pembangunan"
         },
         "geometry": {
           "type": "Polygon",
@@ -10925,7 +10925,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "otista"
+          "name": "pembangunan"
         },
         "geometry": {
           "type": "Polygon",
@@ -11198,7 +11198,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "otista"
+          "name": "proklamasi"
         },
         "geometry": {
           "type": "Polygon",
@@ -11471,7 +11471,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "otista"
+          "name": "proklamasi"
         },
         "geometry": {
           "type": "Polygon",
@@ -11744,7 +11744,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "otista"
+          "name": "proklamasi"
         },
         "geometry": {
           "type": "Polygon",
@@ -12017,7 +12017,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "otista"
+          "name": "proklamasi"
         },
         "geometry": {
           "type": "Polygon",
@@ -12290,7 +12290,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "otista"
+          "name": "proklamasi"
         },
         "geometry": {
           "type": "Polygon",
@@ -12563,7 +12563,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "otista"
+          "name": "proklamasi"
         },
         "geometry": {
           "type": "Polygon",
@@ -12836,7 +12836,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "otista"
+          "name": "proklamasi"
         },
         "geometry": {
           "type": "Polygon",
@@ -13109,7 +13109,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "otista"
+          "name": "proklamasi"
         },
         "geometry": {
           "type": "Polygon",
@@ -13382,7 +13382,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "otista"
+          "name": "proklamasi"
         },
         "geometry": {
           "type": "Polygon",
@@ -13655,7 +13655,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "otista"
+          "name": "proklamasi"
         },
         "geometry": {
           "type": "Polygon",
@@ -13928,7 +13928,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "otista"
+          "name": "proklamasi"
         },
         "geometry": {
           "type": "Polygon",
@@ -14201,7 +14201,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "otista"
+          "name": "proklamasi"
         },
         "geometry": {
           "type": "Polygon",
@@ -14474,7 +14474,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "otista"
+          "name": "proklamasi"
         },
         "geometry": {
           "type": "Polygon",
@@ -14747,7 +14747,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "otista"
+          "name": "proklamasi"
         },
         "geometry": {
           "type": "Polygon",
@@ -15020,7 +15020,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "otista"
+          "name": "proklamasi"
         },
         "geometry": {
           "type": "Polygon",
