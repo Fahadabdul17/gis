@@ -18,7 +18,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan": "ketapang"
+        "name": "ketapang"
       },
       "geometry": {
         "coordinates": [
@@ -32,7 +32,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name ": "cimanuk "
+        "name": "cimanuk "
       },
       "geometry": {
         "coordinates": [
@@ -46,7 +46,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan ": "keatapng"
+        "name": "keatapng"
       },
       "geometry": {
         "coordinates": [
@@ -74,7 +74,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan": "cimanuk"
+        "name": "cimanuk"
       },
       "geometry": {
         "coordinates": [
@@ -88,7 +88,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan ": "edi "
+        "name": "edi "
       },
       "geometry": {
         "coordinates": [
@@ -102,7 +102,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan ": "musdi"
+        "name": "musdi"
       },
       "geometry": {
         "coordinates": [
@@ -116,7 +116,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan ": "musa"
+        "name": "musa"
       },
       "geometry": {
         "coordinates": [
@@ -130,7 +130,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan ": "pa edi suag "
+        "name": "pa edi suag "
       },
       "geometry": {
         "coordinates": [
@@ -144,7 +144,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan": "agung"
+        "name": "agung"
       },
       "geometry": {
         "coordinates": [
@@ -172,7 +172,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan": "cimanuk"
+        "name": "cimanuk"
       },
       "geometry": {
         "coordinates": [
@@ -186,7 +186,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan": "ketapang"
+        "name": "ketapang"
       },
       "geometry": {
         "coordinates": [
@@ -200,7 +200,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan": "ketapang"
+        "name": "ketapang"
       },
       "geometry": {
         "coordinates": [
@@ -214,7 +214,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan ": "edigus"
+        "name": "edigus"
       },
       "geometry": {
         "coordinates": [
@@ -228,7 +228,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan": "edixmusa"
+        "name": "edixmusa"
       },
       "geometry": {
         "coordinates": [
@@ -242,7 +242,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan ": "edi"
+        "name": "edi"
       },
       "geometry": {
         "coordinates": [
@@ -256,7 +256,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan": "agus"
+        "name": "agus"
       },
       "geometry": {
         "coordinates": [
@@ -270,7 +270,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan": "ketapang"
+        "name": "ketapang"
       },
       "geometry": {
         "coordinates": [
@@ -284,7 +284,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan": "ketapang"
+        "name": "ketapang"
       },
       "geometry": {
         "coordinates": [
@@ -298,7 +298,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan ": "agus"
+        "name": "agus"
       },
       "geometry": {
         "coordinates": [
@@ -312,7 +312,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan ": "cimanuk"
+        "name": "cimanuk"
       },
       "geometry": {
         "coordinates": [
@@ -326,7 +326,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name ": "cimanuk"
+        "name": "cimanuk"
       },
       "geometry": {
         "coordinates": [
@@ -340,7 +340,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name ": "cimanuk"
+        "name": "cimanuk"
       },
       "geometry": {
         "coordinates": [
@@ -354,7 +354,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name ": "cimanuk"
+        "name": "cimanuk"
       },
       "geometry": {
         "coordinates": [
@@ -368,7 +368,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan ": "ketapang"
+        "name": "ketapang"
       },
       "geometry": {
         "coordinates": [
@@ -382,7 +382,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name ": "cimanuk"
+        "name": "cimanuk"
       },
       "geometry": {
         "coordinates": [
@@ -396,7 +396,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan": "ketapang"
+        "name": "ketapang"
       },
       "geometry": {
         "coordinates": [
@@ -410,7 +410,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan": "agus"
+        "name": "agus"
       },
       "geometry": {
         "coordinates": [
@@ -424,7 +424,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan": "agung"
+        "name": "agung"
       },
       "geometry": {
         "coordinates": [
@@ -438,7 +438,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan": "agus"
+        "name": "agus"
       },
       "geometry": {
         "coordinates": [
@@ -452,7 +452,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan ": "pahalwan edi"
+        "name": "pahalwan edi"
       },
       "geometry": {
         "coordinates": [
@@ -466,7 +466,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name ": "pahlawan"
+        "name": "pahlawan"
       },
       "geometry": {
         "coordinates": [
@@ -494,7 +494,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name ": "cimanuk"
+        "name": "cimanuk"
       },
       "geometry": {
         "coordinates": [
@@ -508,7 +508,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name ": "pahlawan"
+        "name": "pahlawan"
       },
       "geometry": {
         "coordinates": [
@@ -550,7 +550,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name ": "pahlawan"
+        "name": "pahlawan"
       },
       "geometry": {
         "coordinates": [
@@ -564,7 +564,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name ": "cimanuk"
+        "name": "cimanuk"
       },
       "geometry": {
         "coordinates": [
@@ -578,7 +578,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name ": "jalan stipsip"
+        "name": "namestipsip"
       },
       "geometry": {
         "coordinates": [
@@ -606,7 +606,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan ": "ketapang"
+        "name": "ketapang"
       },
       "geometry": {
         "coordinates": [
@@ -634,7 +634,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan ": "pahlawan edi"
+        "name": "pahlawan edi"
       },
       "geometry": {
         "coordinates": [
@@ -662,7 +662,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan ": "pa edi"
+        "name": "pa edi"
       },
       "geometry": {
         "coordinates": [
@@ -676,7 +676,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name ": "cimanuk"
+        "name": "cimanuk"
       },
       "geometry": {
         "coordinates": [
@@ -690,7 +690,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan ": "pa edi"
+        "name": "pa edi"
       },
       "geometry": {
         "coordinates": [
@@ -704,7 +704,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan ": "agus"
+        "name": "agus"
       },
       "geometry": {
         "coordinates": [
@@ -718,7 +718,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan ": "edixmusa"
+        "name": "edixmusa"
       },
       "geometry": {
         "coordinates": [
@@ -746,7 +746,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "jalan stisip"
+        "name": "namestisip"
       },
       "geometry": {
         "coordinates": [
@@ -760,7 +760,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name ": "ciapanas"
+        "name": "ciapanas"
       },
       "geometry": {
         "coordinates": [
@@ -774,7 +774,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name ": "cimanuk"
+        "name": "cimanuk"
       },
       "geometry": {
         "coordinates": [
@@ -788,7 +788,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name ": "cimanuk"
+        "name": "cimanuk"
       },
       "geometry": {
         "coordinates": [
@@ -802,7 +802,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name ": "pahlawan"
+        "name": "pahlawan"
       },
       "geometry": {
         "coordinates": [
@@ -816,7 +816,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan ": "tenjolaya"
+        "name": "tenjolaya"
       },
       "geometry": {
         "coordinates": [
@@ -830,7 +830,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan ": "pa edi"
+        "name": "pa edi"
       },
       "geometry": {
         "coordinates": [
@@ -844,7 +844,7 @@
     {
       "type": "Feature",
       "properties": {
-        "jalan ": "suga"
+        "name": "suga"
       },
       "geometry": {
         "coordinates": [
@@ -872,7 +872,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name ": "pemda"
+        "name": "pemda"
       },
       "geometry": {
         "coordinates": [
@@ -886,7 +886,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name ": "cimanuk"
+        "name": "cimanuk"
       },
       "geometry": {
         "coordinates": [
@@ -900,7 +900,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name ": "pembangunan"
+        "name": "pembangunan"
       },
       "geometry": {
         "coordinates": [
@@ -914,7 +914,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name ": "jalan stipsip"
+        "name": "namestipsip"
       },
       "geometry": {
         "coordinates": [
@@ -942,7 +942,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name ": "cimanuk"
+        "name": "cimanuk"
       },
       "geometry": {
         "coordinates": [
@@ -956,7 +956,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name ": "pembangunan "
+        "name": "pembangunan "
       },
       "geometry": {
         "coordinates": [
@@ -970,7 +970,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name ": "cimanuk"
+        "name": "cimanuk"
       },
       "geometry": {
         "coordinates": [

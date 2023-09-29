@@ -1,36 +1,52 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MUNCULIN GEOJSONNYA</title>
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <title>Data Tabel</title>
 </head>
+<link rel="stylesheet" href="style.css">
 <body>
-    <div>
-        <h1>ini geo jsonLine line string</h1>
-        <div id="map" style="height: 500px;"></div>
 
-        <!-- Include Leaflet via CDN -->
-        <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
-
-        <!-- Include jQuery via CDN -->
-        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
-        <!-- Create a table to display GeoJSON data -->
-        <table border="1">
+    <div class="point-table">
+    <h1>Data Poin</h1>
+    <table id="pointTable" border="1">
+        <thead>
             <tr>
-                <th>no</th>
-                <th>Name</th>
-                <th>Desa</th>
-                <th>Coordinates</th>
+                <th>Nama</th>
+                <th>Koordinat</th>
                 <th>Type</th>
             </tr>
-            <!-- Rows for GeoJSON data will be added here -->
-        </table>
+        </thead>
+        <tbody></tbody>
+    </table>
+</div>
 
-        <!-- Include the separated JavaScript file -->
-        <script type="module" src="ah.js"></script>
-    </div>
+<div class="polygon-table">
+    <h1>Data Polygon</h1>
+    <table id="polygonTable" border="1">
+        <thead>
+            <tr>
+                <th>Nama</th>
+                <th>Koordinat</th>
+                <th>Type</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+</div>
+
+<div class="polyline-table">
+    <h1>Data Polyline</h1>
+    <table id="polylineTable" border="1">
+        <thead>
+            <tr>
+                <th>Nama</th>
+                <th>Koordinat</th>
+                <th>Type</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+</div>
+    <script type="module" src="./ah.js"></script>
 </body>
 </html>
