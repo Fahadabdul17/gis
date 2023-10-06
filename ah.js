@@ -56,7 +56,7 @@ document.addEventListener("DOMContentLoaded", () => {
 document.addEventListener("DOMContentLoaded", () => {
     const PointTable = document.getElementById("polylineTable").getElementsByTagName('tbody')[0];
 
-    fetch("https://raw.githubusercontent.com/Fahadabdul17/OpenLY/main/geojsonLinestring.json") // Ganti "geojsondrawpoint.json" dengan nama file JSON Anda
+    fetch("geojsonLinestring.json") // Ganti "geojsondrawpoint.json" dengan nama file JSON Anda
         .then(response => response.json())
         .then(data => {
             let rowNum = 1; // Nomor urut awal
